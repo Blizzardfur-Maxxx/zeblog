@@ -1,9 +1,9 @@
 # Installing Minecraft: Java Edition on Chromebooks!
 
-This is the only tutorial on here where it's a bit more complicated than just following a premade tutorial. Well.. Sorta.
+If you have the Play Store on your Chromebook and you have access to download PojavLauncher use the [android tutorial](/tutorials/minecraft-on-android.md) instead.
 
-If you don't already have linux mode installed you'll need to do that, go to `chrome://os-settings` and scroll all the way down to here ![](/images/t1-c-1.png)
+To install Minecraft on your Chromebook without full access to the Play Store, open Settings on your Chromebook and scroll all the way down to where it says Developers > Linux Developer Environment. ![](/images/t1-c-1.png) If this is disabled you're out of luck. Click on the button that says Turn On and just keep clicking OK until this shows up. ![](/images/t1-c-2.png)
 
-This should say "Turn On" if you don't already have it installed. Pick a username and a storage size above like 6GB and install. Once the terminal opens run `sudo apt update && sudo apt upgrade -y`. When that finishes, right click on the Terminal and click "Shut down Linux".
+Copy and paste this in there `curl -O https://soldev69.github.io/zeblog/downloads/installprismlauncher.sh && ./installprismlauncher.sh`
 
-After it shuts down follow https://flatpak.org/setup/Chrome%20OS. When you get flatpak installed run `flatpak install flathub org.prismlauncher.PrismLauncher` in the terminal. When PrismLauncher is done installing it should show up in your app menu (the circle on the bottom left of your chromebook). Open that and make sure that you set Minimum memory allocation and Maximum memory allocation to the same, and select `/app/jdk/17/bin/java` for 1.17+, `/app/jdk/8/bin/java` for 1.16.5 and under (including 1.8.x versions). That should be good, just log in and make a new instance.
+That's it! You now have Minecraft Java Edition on your Chromebook!
