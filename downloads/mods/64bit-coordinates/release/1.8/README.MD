@@ -5,4 +5,4 @@ every power of 2, Chunk overwrite limit causes chunk and entity relocation spam,
 - v2 - Most issues are fixed, log spam is fixed
 - v3 - Fixes 2^35 bug, Slowfalling still exists (due to server thread becoming overloaded)
 
-Report any bugs in the [Cursed Creations](https://discord.gg/T7HFsNHGBA) discord server in the #1.8-64bit thread.
+Report any bugs in the [Cursed Creations](https://discord.gg/gBXj5j55uf) discord server in the #1.8-64bit thread.
