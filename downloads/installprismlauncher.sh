@@ -1,6 +1,8 @@
 #!/bin/sh
 # Update the system
-sudo apt update && sudo apt upgrade -y
+sudo apt update
+sudo apt upgrade -y
+
 # Install LSB Release
 sudo apt install lsb-release -y
 
