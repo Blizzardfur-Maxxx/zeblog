@@ -4,7 +4,8 @@
 # Alpha
 
 # Beta
-- [Beta 1.1_02 v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/beta/b1.1_02/minecraft-b1.1_02-v1-zero.zip)
+- Beta 1.1_02
+    - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/beta/b1.1_02/minecraft-b1.1_02-v1-zero.zip)
 - Beta 1.7.3
     - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/beta/b1.7.3/minecraft-b1.7.3-v1-zero.zip)
 # Release
@@ -17,8 +18,8 @@
     - [v6.1 (314rft)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.2.5/1_2_5_64bitcoords_v6_1.zip)
 
 - 1.5.2
-    - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.5.2/minecraft-1.5.2-64bit-v1-zero. zip)
-    - [v1 (BiomeDecorator crash, Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.5.2/ minecraft-1.5.2-64bit-v1-biomedecorator-crash-zero.zip)
+    - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.5.2/minecraft-1.5.2-64bit-v1-zero.zip)
+    - [v1 (BiomeDecorator crash, Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.5.2/minecraft-1.5.2-64bit-v1-biomedecorator-crash-zero.zip)
     - [v1.1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.5.2/minecraft-1.5.2-64bit-v1.1.zip)
     - [v1.2 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.5.2/minecraft-1.5.2-64bit-v1.2.zip)
 
