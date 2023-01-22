@@ -4,10 +4,21 @@
 - Infdev 20100420
     - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-20100420/minecraft-inf-20100420-v1-zero.zip)
 # Alpha
-
+- Alpha 1.0.6_03
+    - [v1 (314rft)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/alpha/a1.0.6_03/minecraft_a1.0.6_03_64bit_v1_314rft.zip)
+- Alpha 1.1.1
+    - [v1 (314rft)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/alpha/a1.1.1/minecraft_a111_64bit_v1_314rft.zip)
+- Alpha 1.1.2
+    - [v1 (314rft)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/alpha/a1.1.2/minecraft_a112_64bit_v1_314rft.zip)
+- Alpha 1.1.2_01
+    - [v1 Client (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/alpha/a1.1.2_01/minecraft-a1.1.2_01-v1-zero.zip)
+    - [v1 Server (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/alpha/a1.1.2_01/minecraft_server-a1.1.2_01-v1-zero.zip)
+    - [v1.1 (314rft)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/alpha/a1.1.2_01/minecraft_a1.1.2_01_64bit_v1.1_314rft.zip)
 # Beta
 - Beta 1.1_02
     - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/beta/b1.1_02/minecraft-b1.1_02-v1-zero.zip)
+- Beta 1.2_02
+    - [v3 Aether (314rft)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/beta/b1.2_02/minecraft_b1.2_02_64bit_aether_v3_314rft.zip)
 - Beta 1.7.3
     - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/beta/b1.7.3/minecraft-b1.7.3-v1-zero.zip)
 # Release
