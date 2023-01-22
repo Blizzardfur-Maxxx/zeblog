@@ -1,6 +1,8 @@
 # Infdev
-- [Infdev 20100330 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-20100330/minecraft-inf-20100330-v1-zero.zip)
-- [Infdev 20100420 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-20100420/minecraft-inf-20100420-v1-zero.zip)
+- Infdev 20100330
+    - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-20100330/minecraft-inf-20100330-v1-zero.zip)
+- Infdev 20100420
+    - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-20100420/minecraft-inf-20100420-v1-zero.zip)
 # Alpha
 
 # Beta
@@ -38,7 +40,7 @@
     - [v1 (Fixed, Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.10.2/minecraft-1.10.2-64bit-v1-zero-fixed.zip)
 
 - 1.12.2
-    - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64bit-V1-zero.zip)
-    - [v2 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64bit-V2-zero.zip)
+    - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft1.12.2-64bit-V1.zip)
+    - [v2 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64bit-V2.zip)
     - [v2.5 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64bit-v2.5-zero.zip)
-    - [v2.75 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64-bit-v2.75-zero.zip)
+    - [v2.75 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64-bit-v2.75.zip)
