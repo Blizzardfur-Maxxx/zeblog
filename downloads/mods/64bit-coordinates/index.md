@@ -20,8 +20,8 @@
 - 1.5.2
     - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.5.2/minecraft-1.5.2-64bit-v1-zero.zip)
     - [v1 (BiomeDecorator crash, Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.5.2/minecraft-1.5.2-64bit-v1-biomedecorator-crash-zero.zip)
-    - [v1.1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.5.2/minecraft-1.5.2-64bit-v1.1.zip)
-    - [v1.2 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.5.2/minecraft-1.5.2-64bit-v1.2.zip)
+    - [v1.1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.5.2/minecraft-1.5.2-64bit-v1.1-zero.zip)
+    - [v1.2 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.5.2/minecraft-1.5.2-64bit-v1.2-zero.zip)
 
 - 1.6.4
     - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.6.4/minecraft-1.6.4-64bit-v1-zero.zip)
@@ -32,13 +32,13 @@
     - [v3 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.8/minecraft-1.8-64bit-v3-zero.zip)
 
 - 1.9
-    - [v1 (Fixed^7, Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.9/minecraft-1.9-64bit-fixed-fixed-fixed-fixed-fixed-fixed-fixed-v1-zero.zip)
+    - [v1 (Fixed^7, Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.9/minecraft-1.9-64bit-v1-fixed-fixed-fixed-fixed-fixed-fixed-fixed-zero.zip)
 
 - 1.10.2
     - [v1 (Fixed, Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.10.2/minecraft-1.10.2-64bit-v1-zero-fixed.zip)
 
 - 1.12.2
-    - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64bit-v1-zero.zip)
-    - [v2 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64bit-v2-zero.zip)
+    - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64bit-V1-zero.zip)
+    - [v2 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64bit-V2-zero.zip)
     - [v2.5 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64bit-v2.5-zero.zip)
-    - [v2.75 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64bit-v2.75-zero.zip)
+    - [v2.75 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64-bit-v2.75-zero.zip)
