@@ -1,3 +1,6 @@
+# Minecraft 64bit Edition
+These are specil mods that expand Minecraft beyond the 32bit integer limit.
+For any support, contact the Cursed Creations team at https://discord.gg/gBXj5j55uf
 # Infdev
 - Infdev 20100330
     - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-20100330/minecraft-inf-20100330-v1-zero.zip)
@@ -8,6 +11,8 @@
 - Infdev 20100624
     - [v1 (314rft)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-x/minecraft_inf-20100624_64bit_v1_314rft.zip)
 # Alpha
+- Alpha 1.0.1_01
+    - [v3.2 (Zero and Zeta)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/alpha/a1.0.1_01/minecraft-a1.0.1_01-64bit_v3.2-zero-and-zeta.zip)
 - Alpha 1.0.6_03
     - [v1 (314rft)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/alpha/a1.0.6_03/minecraft_a1.0.6_03_64bit_v1_314rft.zip)
 - Alpha 1.1.1
