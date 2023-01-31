@@ -1,11 +1,8 @@
 # Minecraft 64bit Edition
 These are specil mods that expand Minecraft beyond the 32bit integer limit.
 For any support, contact the Cursed Creations team at https://discord.gg/gBXj5j55uf
-Features:
-- 64bit world sizes, you can go trillions of blocks in the X and Z direction with no issues!
-- A teleportation menu for older versions
-- The stripelands in java + Bedrock-like distance effects
-# Infdev
+
+    # Infdev
 - Infdev 20100330
     - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-20100330/minecraft-inf-20100330-v1-zero.zip)
 - Infdev 20100420 (Zero)
