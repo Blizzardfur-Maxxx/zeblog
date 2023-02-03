@@ -5,6 +5,8 @@ For any support, contact the Cursed Creations team at https://discord.gg/gBXj5j5
 # Infdev
 - Infdev 20100330
     - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-20100330/minecraft-inf-20100330-v1-zero.zip)
+- Infdev 20100414
+    - [414mod 0.0.7_02 (314rft)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-20100414_414mod/0.0.7_02-modzip.zip)
 - Infdev 20100420 (Zero)
     - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-20100420/minecraft-inf-20100420-v1-zero.zip)
 - Infdev 20100420 (314rft)
@@ -14,7 +16,7 @@ For any support, contact the Cursed Creations team at https://discord.gg/gBXj5j5
 
 # Alpha
 - Alpha 1.0.1_01
-    - [v3.2 (Zero and Zeta)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/alpha/a1.0.1_01/minecraft-a1.0.1_01-64bit_v3.2-zero-and-zeta.zip)
+    - [0.0.3_02 (Zero and Zeta)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/alpha/a1.0.1_01/minecraft-a1.0.1_01-64bit_v0.0.3_02-zero-and-zeta.zip)
 - Alpha 1.0.6_03
     - [v1 (314rft)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/alpha/a1.0.6_03/minecraft_a1.0.6_03_64bit_v1_314rft.zip)
 - Alpha 1.1.1
@@ -70,3 +72,6 @@ For any support, contact the Cursed Creations team at https://discord.gg/gBXj5j5
     - [v2.5 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64bit-v2.5-zero.zip)
     - [v2.75 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64bit-v2.75.zip)
     - [v3 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64bit-v3.zip)
+- 1.19.2
+    - [v1.0.1 (mckuhei)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.19.2/minecraft-1.19.2-64bit-v1.0.2)
+    - [v1.0.2 (mckuhei)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.19.2/minecraft-1.19.2-64bit-v1.0.2)
