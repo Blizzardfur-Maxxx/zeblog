@@ -75,3 +75,4 @@ For any support, contact the Cursed Creations team at [https://discord.gg/gBXj5j
 - 1.19.2
     - [v1.0.1 (mckuhei)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.19.2/minecraft-1.19.2-64bit-v1.0.1-mckuhei.zip)
     - [v1.0.2 (mckuhei)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.19.2/minecraft-1.19.2-64bit-v1.0.2-mckuhei.zip)
+    - [v1.0.3 (mckuhei)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.19.2/minecraft-1.19.2-64bit-v1.0.3-mckuhei.zip)
