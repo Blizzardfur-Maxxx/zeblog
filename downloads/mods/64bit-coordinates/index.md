@@ -73,6 +73,7 @@ For any support, contact the Cursed Creations team at [https://discord.gg/gBXj5j
     - [v2.75 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64bit-v2.75.zip)
     - [v3 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64bit-v3.zip)
 - 1.19.2
+
 Note from the developer
 ```
 How to install: (Start from 6) https://github.com/Hexeption/MCP-Reborn#how-to-use
