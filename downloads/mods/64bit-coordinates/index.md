@@ -73,6 +73,38 @@ For any support, contact the Cursed Creations team at [https://discord.gg/gBXj5j
     - [v2.75 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64bit-v2.75.zip)
     - [v3 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64bit-v3.zip)
 - 1.19.2
+Note from the developer
+```
+How to install: (Start from 6) https://github.com/Hexeption/MCP-Reborn#how-to-use
+
+NOTICE: MCP Reborn cannot reobfuscate class. So I can only distribute jar file. But resources file is not included.
+
+What need to fix:
+- Light system. I took 3 hours to fix this. But doesn't work.
+- Misc
+
+Author: mckuhei
+Bug report & delete requests: mckuheiqwq (at) gmail (dot) com
+
+==== history ====
+1.0.0:
+      Inital release
+=================
+1.0.1:
+      Add floating point precision display.
+      Fix "No chunk holder after ticket has been added" exception
+=================
+1.0.2:
+      Removed world border.
+      Add a patch to fix chunk stripe lands.
+      Add a patch to fix Frustum cause game froze.
+      Add a patch to fix 'chunk out of bound' exception.
+=================
+1.0.3:
+      Add a patch to restore farlands.
+=================
+```
+Downloads
     - [v1.0.1 (mckuhei)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.19.2/minecraft-1.19.2-64bit-v1.0.1-mckuhei.zip)
     - [v1.0.2 (mckuhei)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.19.2/minecraft-1.19.2-64bit-v1.0.2-mckuhei.zip)
     - [v1.0.3 (mckuhei)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.19.2/minecraft-1.19.2-64bit-v1.0.3-mckuhei.zip)
