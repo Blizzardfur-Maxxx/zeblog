@@ -1,5 +1,5 @@
 # Minecraft 64bit Edition
-These are specil mods that expand Minecraft beyond the 32bit integer limit.
+These are special mods that expand Minecraft beyond the 32bit integer limit.
 For any support, contact the Cursed Creations team at [https://discord.gg/gBXj5j55uf](https://discord.gg/gBXj5j55uf)
 
 # Infdev
