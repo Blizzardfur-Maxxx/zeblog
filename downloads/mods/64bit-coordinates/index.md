@@ -66,6 +66,9 @@ For any support, contact the Cursed Creations team at [https://discord.gg/gBXj5j
 - 1.10.2
     - [v1 (Fixed, Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.10.2/minecraft-1.10.2-64bit-v1-zero-fixed.zip)
 
+- 1.11.2
+    - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.11.2/minecraft-1.11.2-64bit-v1-zero.zip)
+
 - 1.12.2
     - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft1.12.2-64bit-V1.zip)
     - [v2 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft1.12.2-64-bit-V2.zip)
