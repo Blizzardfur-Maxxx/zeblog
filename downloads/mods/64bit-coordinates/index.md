@@ -76,8 +76,6 @@ For any support, contact the Cursed Creations team at [https://discord.gg/gBXj5j
 
 Note from the developer
 ```
-How to install: (Start from 6) https://github.com/Hexeption/MCP-Reborn#how-to-use
-
 NOTICE: MCP Reborn cannot reobfuscate class. So I can only distribute jar file. But resources file is not included.
 
 What need to fix:
@@ -105,7 +103,10 @@ Bug report & delete requests: mckuheiqwq (at) gmail (dot) com
       Add a patch to restore farlands.
 =================
 ```
-Downloads
+
+Downloads: [official, see readme.txt inside zip for install tutorial](https://www.mediafire.com/folder/r8lxwuewqupsg/Minecraft+1.19.2+64bit+edition)
+
+Prepatched files
     - [v1.0.1 (mckuhei)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.19.2/minecraft-1.19.2-64bit-v1.0.1-mckuhei.zip)
     - [v1.0.2 (mckuhei)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.19.2/minecraft-1.19.2-64bit-v1.0.2-mckuhei.zip)
     - [v1.0.3 (mckuhei)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.19.2/minecraft-1.19.2-64bit-v1.0.3-mckuhei.zip)
