@@ -2,7 +2,22 @@
 These are specil mods that expand Minecraft beyond the 32bit integer limit.
 For any support, contact the Cursed Creations team at [https://discord.gg/gBXj5j55uf](https://discord.gg/gBXj5j55uf)
 
-# Infdev
+# How to install
+0: Alpine users: `apk add prismlauncher` and skip to , if you don't use Alpine Linux continue
+1: Download MultiMC from [here](https://multimc.org/) or install PrismLauncher from [here](https://prismlauncher.org/download/) (PrismLauncher on Windows needs VCRedist 2022, download it from [here](https://aka.ms/vs/17/release/vc_redist.x64.exe))
+2: Download and install OpenJDK 8
+- [Windows](https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u362-b09/OpenJDK8U-jre_x64_windows_hotspot_8u362b09.msi)
+- [macOS Apple Silicon/M-series](https://cdn.azul.com/zulu/bin/zulu8.52.0.23-ca-fx-jre8.0.282-macosx_aarch64.dmg)
+- [macOS x86-64/Intel](https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u362-b09/OpenJDK8U-jre_x64_mac_hotspot_8u362b09.pkg)
+- [Debian x64 (NO JFX)](https://cdn.azul.com/zulu/bin/zulu8.68.0.21-ca-jre8.0.362-linux_amd64.deb)
+- Ubuntu (most architectures): `sudo apt install openjdk-8-jre -y`
+- Other Linux: install java 8 somehow idk
+3: Setup MultiMC/PrismLauncher and make a new instance
+4: Click on `Add to Minecraft jar` and select the mod zip that you downloaded, make sure the mod verison and MC version match exactly
+5: Sign in and click launch!
+
+# Downloads
+## Infdev
 - Infdev 20100330
     - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-20100330/minecraft-inf-20100330-v1-zero.zip)
 - Infdev 20100414
@@ -14,7 +29,7 @@ For any support, contact the Cursed Creations team at [https://discord.gg/gBXj5j
 - Infdev 20100624
     - [v1 (314rft)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-x/minecraft_inf-20100624_64bit_v1_314rft.zip)
 
-# Alpha
+## Alpha
 - Alpha 1.0.1_01
     - [0.0.3_02 (Zero and Zeta)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/alpha/a1.0.1_01/minecraft-a1.0.1_01-64bit_v0.0.3_02-zero-and-zeta.zip)
 - Alpha 1.0.6_03
@@ -29,7 +44,7 @@ For any support, contact the Cursed Creations team at [https://discord.gg/gBXj5j
 - Alpha 1.1.2_01 (314rft)
     - [v1.1 (314rft)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/alpha/a1.1.2_01/minecraft_a1.1.2_01_64bit_v1.1_314rft.zip)
 
-# Beta
+## Beta
 - Beta 1.1_02
     - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/beta/b1.1_02/minecraft-b1.1_02-v1-zero.zip)
 - Beta 1.2_02
@@ -37,7 +52,7 @@ For any support, contact the Cursed Creations team at [https://discord.gg/gBXj5j
 - Beta 1.7.3
     - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/beta/b1.7.3/minecraft-b1.7.3-v1-zero.zip)
 
-# Release
+## Release
 - 1.2.5
     - [v2 (314rft)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.2.5/1_2_5_64bitcoords_v2.zip)
     - [v3 (314rft)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.2.5/1_2_5_64bitcoords_v3.zip)
