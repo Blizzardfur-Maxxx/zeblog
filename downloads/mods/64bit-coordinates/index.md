@@ -21,7 +21,9 @@ For any support, contact the Cursed Creations team at [https://discord.gg/gBXj5j
 - Infdev 20100330
     - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-20100330/minecraft-inf-20100330-v1-zero.zip)
 - Infdev 20100414
-    - [414mod 0.0.7_02 (314rft)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-20100414_414mod/0.0.7_02-modzip.zip)
+    - 414mod
+        - Note from the developer: "it's a VERY messy mod and will feel very wonky"
+        - [0.0.7_02 (314rft)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-20100414_414mod/0.0.7_02-modzip.zip)
 - Infdev 20100420 (Zero)
     - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-20100420/minecraft-inf-20100420-v1-zero.zip)
 - Infdev 20100420 (314rft)
