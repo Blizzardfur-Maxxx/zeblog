@@ -1,1 +1,0 @@
-document.getElementById("b").innerHTML("Hi! Nothing here yet!")
