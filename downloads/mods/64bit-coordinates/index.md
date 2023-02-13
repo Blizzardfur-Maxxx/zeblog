@@ -23,6 +23,9 @@ For any support, contact the Cursed Creations team at [https://discord.gg/gBXj5j
 
 # Downloads
 ## Infdev
+- Infdev 20100313
+- Infdev 20100327
+    - [v1 (mikenotpike)]
 - Infdev 20100330
     - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-20100330/minecraft-inf-20100330-v1-zero.zip)
 - Infdev 20100414
@@ -58,6 +61,7 @@ For any support, contact the Cursed Creations team at [https://discord.gg/gBXj5j
     - [v3 Aether (314rft)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/beta/b1.2_02/minecraft_b1.2_02_64bit_aether_v3_314rft.zip)
 - Beta 1.7.3
     - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/beta/b1.7.3/minecraft-b1.7.3-v1-zero.zip)
+- Beta 1.8.1 (RVH)
 
 ## Release
 - 1.2.5
