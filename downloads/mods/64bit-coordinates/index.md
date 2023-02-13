@@ -3,8 +3,10 @@ These are specil mods that expand Minecraft beyond the 32bit integer limit.
 For any support, contact the Cursed Creations team at [https://discord.gg/gBXj5j55uf](https://discord.gg/gBXj5j55uf)
 
 # How to install
-0: Alpine users: `apk add prismlauncher` and skip to , if you don't use Alpine Linux continue
+0: Alpine users: `apk add prismlauncher` and skip to 3, if you don't use Alpine Linux continue
+
 1: Download MultiMC from [here](https://multimc.org/) or install PrismLauncher from [here](https://prismlauncher.org/download/) (PrismLauncher on Windows needs VCRedist 2022, download it from [here](https://aka.ms/vs/17/release/vc_redist.x64.exe))
+
 2: Download and install OpenJDK 8
 - [Windows](https://github.com/adoptium/temurin8-binaries/releases/download/jdk8u362-b09/OpenJDK8U-jre_x64_windows_hotspot_8u362b09.msi)
 - [macOS Apple Silicon/M-series](https://cdn.azul.com/zulu/bin/zulu8.52.0.23-ca-fx-jre8.0.282-macosx_aarch64.dmg)
@@ -12,8 +14,11 @@ For any support, contact the Cursed Creations team at [https://discord.gg/gBXj5j
 - [Debian x64 (NO JFX)](https://cdn.azul.com/zulu/bin/zulu8.68.0.21-ca-jre8.0.362-linux_amd64.deb)
 - Ubuntu (most architectures): `sudo apt install openjdk-8-jre -y`
 - Other Linux: install java 8 somehow idk
+
 3: Setup MultiMC/PrismLauncher and make a new instance
+
 4: Click on `Add to Minecraft jar` and select the mod zip that you downloaded, make sure the mod verison and MC version match exactly
+
 5: Sign in and click launch!
 
 # Downloads
@@ -23,7 +28,7 @@ For any support, contact the Cursed Creations team at [https://discord.gg/gBXj5j
 - Infdev 20100414
     - 414mod
         - Note from the developer: "it's a VERY messy mod and will feel very wonky"
-        - [0.0.7_02 (314rft)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-20100414_414mod/0.0.7_02-modzip.zip)
+        - Download: [0.0.7_02 (314rft)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-20100414_414mod/0.0.7_02-modzip.zip)
 - Infdev 20100420 (Zero)
     - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-20100420/minecraft-inf-20100420-v1-zero.zip)
 - Infdev 20100420 (314rft)
