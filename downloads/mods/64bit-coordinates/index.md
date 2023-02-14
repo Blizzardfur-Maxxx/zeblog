@@ -101,4 +101,6 @@ For any support, contact the Cursed Creations team at [https://discord.gg/gBXj5j
     - [v2.5 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64bit-v2.5-zero.zip)
     - [v2.75 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64bit-v2.75.zip)
     - [v3 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64bit-v3.zip)
-- 1.19.2 (taken down due to request)
+- 1.19.2
+    - Downloads: [official, see readme.txt inside zip for install tutorial](https://www.mediafire.com/folder/r8lxwuewqupsg/Minecraft+1.19.2+64bit+edition)
+    - Prepatched files taken down permanently 
