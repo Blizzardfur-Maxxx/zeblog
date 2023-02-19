@@ -3,8 +3,6 @@ These are specil mods that expand Minecraft beyond the 32bit integer limit.
 For any support, contact the Cursed Creations team at [https://discord.gg/gBXj5j55uf](https://discord.gg/gBXj5j55uf)
 
 # How to install
-0: Alpine users: `apk add prismlauncher` and skip to 3, if you don't use Alpine Linux continue
-
 1: Download MultiMC from [here](https://multimc.org/) or install PrismLauncher from [here](https://prismlauncher.org/download/) (PrismLauncher on Windows needs VCRedist 2022, download it from [here](https://aka.ms/vs/17/release/vc_redist.x64.exe))
 
 2: Download and install OpenJDK 8
