@@ -26,8 +26,8 @@ For any support, contact the Cursed Creations team at [https://discord.gg/gBXj5j
 - Infdev 20100227
     - [v1 (Maxxx)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-20100227/minecraft-inf-20100227-v1-maxxx.zip)
 - Infdev 20100313
+- Infdev 20100325
 - Infdev 20100327
-    - [v1 (mikenotpike)]
 - Infdev 20100330
     - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-20100330/minecraft-inf-20100330-v1-zero.zip)
 - Infdev 20100414
@@ -63,7 +63,7 @@ For any support, contact the Cursed Creations team at [https://discord.gg/gBXj5j
     - [v3 Aether (314rft)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/beta/b1.2_02/minecraft_b1.2_02_64bit_aether_v3_314rft.zip)
 - Beta 1.7.3
     - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/beta/b1.7.3/minecraft-b1.7.3-v1-zero.zip)
-- Beta 1.8.1 (RVH)
+- Beta 1.8.1
 
 ## Release
 - 1.2.5
@@ -103,6 +103,6 @@ For any support, contact the Cursed Creations team at [https://discord.gg/gBXj5j
     - [v2.5 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64bit-v2.5-zero.zip)
     - [v2.75 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64bit-v2.75.zip)
     - [v3 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64bit-v3.zip)
-- 1.19.2
+- 1.19.2 (mckuhei)
     - Downloads: [official, see readme.txt inside zip for install tutorial](https://www.mediafire.com/folder/r8lxwuewqupsg/Minecraft+1.19.2+64bit+edition)
     - Prepatched files taken down permanently 
