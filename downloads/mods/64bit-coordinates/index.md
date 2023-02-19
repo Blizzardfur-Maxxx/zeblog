@@ -38,6 +38,7 @@ For any support, contact the Cursed Creations team at [https://discord.gg/gBXj5j
     - [v1 (Maxxx)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-20100227/minecraft-inf-20100227-v1-maxxx.zip)
 - Infdev 20100313
 - Infdev 20100325
+    - [v1 (Maxxx)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-20100325/minecraft-inf-20100325-v1-maxxx.zip)
 - Infdev 20100327
 - Infdev 20100330
     - [v1 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-20100330/minecraft-inf-20100330-v1-zero.zip)
