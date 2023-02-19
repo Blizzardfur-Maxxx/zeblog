@@ -20,6 +20,19 @@ For any support, contact the Cursed Creations team at [https://discord.gg/gBXj5j
 5: Sign in and click launch!
 
 # Downloads
+
+## Classic
+
+- Classic 0.30c
+  - [Official release](http://mckuhei.mcmodule.org/MinecraftHacks/64bit/unsupported/Classic/)
+
+## Indev
+
+- Indev 20100223
+  - [v1 (mckuhei)](./indev/Minecraft Indev 0223 64bit edition by mckuhei.zip)
+  - [64bit world generation patch](./indev/64bit world generation patch for Indev 0223.zip)
+  - [Official release](http://mckuhei.mcmodule.org/MinecraftHacks/64bit/unsupported/Indev/)
+
 ## Infdev
 - Infdev 20100227
     - [v1 (Maxxx)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/infdev/inf-20100227/minecraft-inf-20100227-v1-maxxx.zip)
@@ -102,5 +115,4 @@ For any support, contact the Cursed Creations team at [https://discord.gg/gBXj5j
     - [v2.75 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64bit-v2.75.zip)
     - [v3 (Zero)](https://soldev69.github.io/zeblog/downloads/mods/64bit-coordinates/release/1.12.2/minecraft-1.12.2-64bit-v3.zip)
 - 1.19.2 (mckuhei)
-    - Downloads: [official, see readme.txt inside zip for install tutorial](https://www.mediafire.com/folder/r8lxwuewqupsg/Minecraft+1.19.2+64bit+edition)
-    - Prepatched files taken down permanently 
+    - Downloads: [official, see readme.txt inside zip for install tutorial](http://mckuhei.mcmodule.org/MinecraftHacks/64bit/1.19.2/)
